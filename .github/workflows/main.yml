@@ -24,3 +24,6 @@ jobs:
 
       - name: Push Docker image
         run: docker push amitpotdar5/ubuntu-dir-demo:latest
+
+      - name: Run hello script
+        run: ./hello.sh
