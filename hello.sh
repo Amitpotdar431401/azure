@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "azure pipeline"
+echo "azure pipeline
