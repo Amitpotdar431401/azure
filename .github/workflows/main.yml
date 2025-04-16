@@ -11,4 +11,4 @@ jobs:
     
     - name: Run hello script
       run: ./hello.sh
-      run: echo "hello world"
+      
